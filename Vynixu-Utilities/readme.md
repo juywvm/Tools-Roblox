@@ -1,6 +1,6 @@
 All Credits:         https://github.com/RegularVynixu
 
-I just want to create a back-up for Vynixu's OP Ultities.
+I just want to create a back-up for Vynixu's OP Utilities.
 
 https://github.com/RegularVynixu/Utilities
 
